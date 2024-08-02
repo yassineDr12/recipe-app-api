@@ -1,2 +1,2 @@
 # recipe-app-api
-Recipe API project.
+A simple recipe API project as practice for Django test-driven development + Docker
